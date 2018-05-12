@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7214'
     url: http://www.gutenberg.org/2009/agents/7214
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17196#Life-of-Adam-Smith
 gutenberg_issued: '2005-12-02'
 gutenberg_type: Text
 identifiers:
