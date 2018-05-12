@@ -1,0 +1,27 @@
+_repo: Life-of-Adam-Smith_17196
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rae, John
+    birthdate: 1845
+    deathdate: 1915
+    gutenberg_agent_id: '7214'
+    url: http://www.gutenberg.org/2009/agents/7214
+description: ''
+gutenberg_issued: '2005-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17196'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Smith, Adam, 1723-1790'
+- !lcc 'HB'
+- !lcsh 'Economists -- Great Britain -- Biography'
+title: Life of Adam Smith
+url: http://www.gutenberg.org/ebooks/17196
